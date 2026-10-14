@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+data/
+*.pth
+.ipynb_checkpoints/
+train_output.txt
+train_errors.txt

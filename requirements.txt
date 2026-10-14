@@ -1,0 +1,12 @@
+requests
+numpy
+pillow
+matplotlib
+geopandas
+rasterio
+shapely
+pyproj
+torch
+torchvision
+fastapi
+uvicorn

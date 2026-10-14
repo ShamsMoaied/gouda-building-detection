@@ -1,0 +1,10 @@
+{
+  "area": "107500_446500",
+  "years": "2020 -> 2025",
+  "bag_new_buildings": 42,
+  "bag_new_buildings_found": 7,
+  "recall": 0.167,
+  "alerts": 51,
+  "alerts_matching_a_new_bag_building": 2,
+  "alert_precision": 0.039
+}

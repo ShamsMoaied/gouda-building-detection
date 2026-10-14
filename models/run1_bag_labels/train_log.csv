@@ -1,0 +1,2 @@
+epoch,loss,loss_classifier,loss_box_reg,loss_mask,loss_objectness,loss_rpn_box_reg,minutes
+1,1.8246,0.3565,0.4972,0.5894,0.2974,0.0843,56.1

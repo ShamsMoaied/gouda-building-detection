@@ -1,0 +1,30 @@
+{
+  "test_chips": 64,
+  "score_threshold": 0.5,
+  "iou_threshold": 0.5,
+  "true_positives": 119,
+  "false_positives": 601,
+  "false_negatives": 345,
+  "precision": 0.165,
+  "recall": 0.256,
+  "f1": 0.201,
+  "mean_iou_of_matches": 0.637,
+  "pixel_iou": 0.45,
+  "recall_by_size_m2": {
+    "0-50": {
+      "found": 7,
+      "total": 266,
+      "recall": 0.026
+    },
+    "50-150": {
+      "found": 47,
+      "total": 66,
+      "recall": 0.712
+    },
+    "150-max": {
+      "found": 65,
+      "total": 132,
+      "recall": 0.492
+    }
+  }
+}
